@@ -2,16 +2,17 @@
 
 Slotsy w terminalu w twojej okolicy
 
+![slotsy_speed_1 0x](https://github.com/user-attachments/assets/c7d7eb69-e5f7-4814-8805-c9ff7f058101)
+
 ## Wymagania
 
 - `Python 3.6+`
 
 ## Instalacja i Uruchomienie
 
-1. Sklonuj lub pobierz projekt
-2. Uruchom grę poleceniem:
-
 ```bash
+git clone https://github.com/dawidoczek/gamba.git
+cd gamba
 python main.py
 ```
 
