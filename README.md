@@ -2,7 +2,7 @@
 
 Slotsy w terminalu w twojej okolicy
 
-![slotsy_speed_1 0x](https://github.com/user-attachments/assets/c7d7eb69-e5f7-4814-8805-c9ff7f058101)
+![slotsy_speed_1 0x](https://github.com/user-attachments/assets/537be251-6640-4230-9dd7-482b6ebc3d09)
 
 ## Wymagania
 
